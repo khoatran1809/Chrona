@@ -24,7 +24,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/khoatran1809/chrona.git
+git clone https://github.com/khoatran1809/Chrona.git
 cd chrona
 ```
 
@@ -189,3 +189,4 @@ If you encounter any issues or have questions:
 ---
 
 Made with ❤️ for better time management
+
