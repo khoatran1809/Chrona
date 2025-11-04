@@ -1,0 +1,10 @@
+Chrona - Smart Schedule Optimizer
+
+A powerful task scheduling application that uses Google's Gemini AI to optimize your daily and multi-day schedules. Features include:
+
+- English–Vietnamese Interface: Seamlessly toggle between languages with full UI and response adaptation
+- Smart Scheduling: Leverages Google's Gemini 2.5 Flash model to generate optimized, personalized task schedules
+- Productivity Insights: Visual timelines, metrics, and downloadable CSV exports for easy tracking and analysis
+- Secure API Handling: Backend-managed API keys for safe deployment and clean user experience
+- Modular Localization: Easy-to-extend translation system with JSON-based language packs
+- Google Calendar Integration: Export and sync schedules with Google Calendar (requires OAuth setup)
